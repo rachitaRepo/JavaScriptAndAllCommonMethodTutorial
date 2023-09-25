@@ -26,7 +26,7 @@ public class assertionSoftVerifyTest {
 
 		sa.assertTrue(ActualTtile, "Title not Matched");
 //next line will execute evn condiron failed
-		System.out.println("OK continue for next4343");
+		System.out.println("OK continue for next4343565656");
 		driver.close();
 	}
 }
