@@ -1,0 +1,169 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 15974
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1694928177.734][WARNING]: This version of ChromeDriver has not been tested with Chrome version 117.
+Sep 17, 2023 10:52:57 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 117
+Sep 17, 2023 10:52:57 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.7.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+https://tutorialsninja.com/demo/index.php?route=information/contact
+https://tutorialsninja.com/demo/index.php?route=information/contact is valid
+https://tutorialsninja.com/demo/index.php?route=account/account
+https://tutorialsninja.com/demo/index.php?route=account/account is valid
+https://tutorialsninja.com/demo/index.php?route=account/register
+https://tutorialsninja.com/demo/index.php?route=account/register is valid
+https://tutorialsninja.com/demo/index.php?route=account/login
+https://tutorialsninja.com/demo/index.php?route=account/login is valid
+https://tutorialsninja.com/demo/index.php?route=account/wishlist
+https://tutorialsninja.com/demo/index.php?route=account/wishlist is valid
+https://tutorialsninja.com/demo/index.php?route=checkout/cart
+https://tutorialsninja.com/demo/index.php?route=checkout/cart is valid
+https://tutorialsninja.com/demo/index.php?route=checkout/checkout
+https://tutorialsninja.com/demo/index.php?route=checkout/checkout is valid
+https://tutorialsninja.com/demo/index.php?route=common/home
+https://tutorialsninja.com/demo/index.php?route=common/home is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+https://tutorialsninja.com/demo/index.php?route=product/category&path=20 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26
+https://tutorialsninja.com/demo/index.php?route=product/category&path=20_26 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27
+https://tutorialsninja.com/demo/index.php?route=product/category&path=20_27 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=20
+https://tutorialsninja.com/demo/index.php?route=product/category&path=20 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+https://tutorialsninja.com/demo/index.php?route=product/category&path=18 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=18_46
+https://tutorialsninja.com/demo/index.php?route=product/category&path=18_46 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=18_45
+https://tutorialsninja.com/demo/index.php?route=product/category&path=18_45 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=18
+https://tutorialsninja.com/demo/index.php?route=product/category&path=18 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_29
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_29 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_28
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_28 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_30
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_30 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_31
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_31 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_32
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25_32 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25
+https://tutorialsninja.com/demo/index.php?route=product/category&path=25 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=57
+https://tutorialsninja.com/demo/index.php?route=product/category&path=57 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=17
+https://tutorialsninja.com/demo/index.php?route=product/category&path=17 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=24
+https://tutorialsninja.com/demo/index.php?route=product/category&path=24 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=33
+https://tutorialsninja.com/demo/index.php?route=product/category&path=33 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_43
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_43 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_44
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_44 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_47
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_47 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_48
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_48 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_49
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_49 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_50
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_50 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_51
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_51 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_52
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_52 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_53
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_53 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_54
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_54 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_55
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_55 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_56
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_56 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_38
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_38 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_37
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_37 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_39
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_39 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_40
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_40 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_41
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_41 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_42
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34_42 is valid
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34
+https://tutorialsninja.com/demo/index.php?route=product/category&path=34 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49
+https://tutorialsninja.com/demo/index.php?route=product/product&path=57&product_id=49 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=43 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=40 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30 is valid
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30
+https://tutorialsninja.com/demo/index.php?route=product/product&product_id=30 is valid
+https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4
+https://tutorialsninja.com/demo/index.php?route=information/information&information_id=4 is valid
+https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6
+https://tutorialsninja.com/demo/index.php?route=information/information&information_id=6 is valid
+https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3
+https://tutorialsninja.com/demo/index.php?route=information/information&information_id=3 is valid
+https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5
+https://tutorialsninja.com/demo/index.php?route=information/information&information_id=5 is valid
+https://tutorialsninja.com/demo/index.php?route=information/contact
+https://tutorialsninja.com/demo/index.php?route=information/contact is valid
+https://tutorialsninja.com/demo/index.php?route=account/return/add
+https://tutorialsninja.com/demo/index.php?route=account/return/add is valid
+https://tutorialsninja.com/demo/index.php?route=information/sitemap
+https://tutorialsninja.com/demo/index.php?route=information/sitemap is valid
+https://tutorialsninja.com/demo/index.php?route=product/manufacturer
+https://tutorialsninja.com/demo/index.php?route=product/manufacturer is valid
+https://tutorialsninja.com/demo/index.php?route=account/voucher
+https://tutorialsninja.com/demo/index.php?route=account/voucher is valid
+https://tutorialsninja.com/demo/index.php?route=affiliate/login
+https://tutorialsninja.com/demo/index.php?route=affiliate/login is valid
+https://tutorialsninja.com/demo/index.php?route=product/special
+https://tutorialsninja.com/demo/index.php?route=product/special is valid
+https://tutorialsninja.com/demo/index.php?route=account/account
+https://tutorialsninja.com/demo/index.php?route=account/account is valid
+https://tutorialsninja.com/demo/index.php?route=account/order
+https://tutorialsninja.com/demo/index.php?route=account/order is valid
+https://tutorialsninja.com/demo/index.php?route=account/wishlist
+https://tutorialsninja.com/demo/index.php?route=account/wishlist is valid
+https://tutorialsninja.com/demo/index.php?route=account/newsletter
+https://tutorialsninja.com/demo/index.php?route=account/newsletter is valid
+http://www.opencart.com/
+http://www.opencart.com/ is valid
+PASSED: atBrokenLink
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
+

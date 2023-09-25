@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      
+      <class name="CompName.RacJS.JavaScriptFrmaework.windowScrollByTest"/>
+      <class name="Scenarios.brokenLinkTest"/>
+      <class name="WebElementStatements.PKG.dropDownStatticTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.five_dynamicScpt_getURLtTileTest"/>
+      <class name="WebElementStatements.PKG.downLoadTest"/>
+      <class name="WebElementStatements.PKG.dynamicURLTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.six_DynScpt_InnerTextofPageTest"/>
+      <class name="Scenarios.linkClickbyLinkTextTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.one_allAertsRuntimeTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.eight_DynScpt_InputValueTest"/>
+      <class name="Scenarios.randomClickonLinkTest"/>
+      <class name="WebElementStatements.PKG.autoSuggestive_DynamicDropDownTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.three_dompropertyColor3Test"/>
+      <class name="WebElementStatements.PKG.mouseHoverActionTest"/>
+      <class name="WebElementStatements.PKG.dynamicDropDownTest"/>
+      <class name="WebElementStatements.PKG.checkBoxesTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.seven_DynaScpt_ScrollPageTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.clickHandleAnotherWayTest"/>
+      <class name="WebElementStatements.PKG.assertionsHardTest"/>
+      <class name="WebElementStatements.PKG.dragAndDropActionsTest"/>
+      <class name="WebElementStatements.PKG.uploadFileDownloadTest"/>
+      <class name="WebElementStatements.PKG.dynamicElementTest"/>
+      <class name="Scenarios.duplicateElementTest"/>
+      <class name="WebElementStatements.PKG.waitTest"/>
+      <class name="WebElementStatements.PKG.getTextnGetAttributeTest"/>
+      <class name="WebElementStatements.PKG.assertionSoftVerifyTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.two_DomStatements2Test"/>
+      <class name="Scenarios.getAllLinksTest"/>
+      <class name="WebElementStatements.PKG.cookiesTest"/>
+      <class name="CompName.RacJS.JavaScriptFrmaework.four_domPropertiesURLtIleTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
