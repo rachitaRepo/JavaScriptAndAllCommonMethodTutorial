@@ -3,36 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="WebElementStatements.PKG.wait">
+      <class name="Scenarios.webTableTest">
         <methods>
-          <include name="atWait"/>
+          <include name="Table"/>
         </methods>
-      </class> <!-- WebElementStatements.PKG.wait -->
-      <class name="WebElementStatements.PKG.dragAndDropActions">
-        <methods>
-          <include name="atDragNDrop"/>
-        </methods>
-      </class> <!-- WebElementStatements.PKG.dragAndDropActions -->
-      <class name="CompName.RacJS.JavaScriptFrmaework.two_DomStatements2">
-        <methods>
-          <include name="atclickHandle"/>
-        </methods>
-      </class> <!-- CompName.RacJS.JavaScriptFrmaework.two_DomStatements2 -->
-      <class name="Scenarios.randomClickonLink">
-        <methods>
-          <include name="atWait"/>
-        </methods>
-      </class> <!-- Scenarios.randomClickonLink -->
-      <class name="Scenarios.duplicateElement">
-        <methods>
-          <include name="atDuplicate"/>
-        </methods>
-      </class> <!-- Scenarios.duplicateElement -->
-      <class name="WebElementStatements.PKG.dynamicElement">
-        <methods>
-          <include name="atTest"/>
-        </methods>
-      </class> <!-- WebElementStatements.PKG.dynamicElement -->
+      </class> <!-- Scenarios.webTableTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
